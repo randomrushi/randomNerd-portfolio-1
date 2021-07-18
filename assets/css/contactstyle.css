@@ -1,0 +1,9 @@
+#success_message,#error_message{
+  width:100%;
+  height:100%;
+  display:none;
+}
+/* input[type=text]::-moz-focus-outer, select::-moz-focus-outer, textarea::-moz-focus-outer {
+  border: 1px solid #216A61;
+  border-radius: 4px;
+} */
